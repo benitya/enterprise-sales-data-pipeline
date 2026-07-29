@@ -243,7 +243,7 @@ Then insert image:
 ```markdown
 
 ![Enterprise Sales Dashboard](images/dashboard.png)
-<img width="871" height="487" alt="dashboard" src="https://github.com/user-attachments/assets/450bff71-b95c-4831-8c9f-3153d90be165" />
+
 
 ```
 
