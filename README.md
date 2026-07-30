@@ -360,6 +360,6 @@ B.E. Computer Engineering | Data Engineering | SQL | Python | PostgreSQL | Power
 
 GitHub: https://github.com/benitya
 
-Feel free to explore the repository, raise issues, or contribute to further enhancements.
+Feel free to explore the repository.
 ```
 
